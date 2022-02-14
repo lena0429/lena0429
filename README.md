@@ -1,4 +1,8 @@
+
+<img src="./src/img/github-banner.jpg" alt="banner" />
+
 ### Hi there 👋
+
 
 <!--
 **lena0128/lena0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
