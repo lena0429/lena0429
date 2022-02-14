@@ -2,6 +2,7 @@
 <img src="./src/img/github-banner.jpg" alt="banner" />
 ### Hi there 👋 I'm Lena 😊
 
+
 - 🌱 I’m currently learning Big O notation.
 - 🔭 I’m currently working on buidling a simple memory matching game in JavaScript.
 
