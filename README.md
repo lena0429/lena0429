@@ -4,7 +4,7 @@
 ### Hi there 👋 I'm Lena 😊
 
 - 🌱 I’m currently learning Big O notation.
-- 🔭 I’m currently working on buidling a simple memory matching game in JavaScript.
+- 🔭 I’m currently working on "Build 15 JavaScript Projects - Vanilla JavaScript Course".
 
 <!--
 **lena0128/lena0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
