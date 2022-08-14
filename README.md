@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Lena 😊
 
-- 🌱 I’m currently learning Big O notation.
+- 🌱 I’m currently learning CI/CD.
 - 🔭 I’m currently working on "Build 15 JavaScript Projects - Vanilla JavaScript Course".
 
 <!--
